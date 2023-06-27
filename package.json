@@ -1,0 +1,35 @@
+{
+	"name": "tki-qrcode",
+	"version": "0.1.6",
+	"description": "qrcode",
+	"main": "components/tki-qrcode/tki-qrcode.vue",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/q310550690/uni-app-qrcode.git"
+	},
+	"keywords": [
+		"qrcode",
+		"mpvue",
+		"uni-app",
+		"tki-qrcode",
+		"TikiUi"
+	],
+	"author": "sxq",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/q310550690/uni-app-qrcode/issues"
+	},
+	"homepage": "https://github.com/q310550690/uni-app-qrcode#readme",
+	"dependencies": {
+		"js-base64": "^2.5.1",
+		"protobufjs": "^6.10.1",
+		"vuex-persistedstate": "^2.7.0"
+	},
+	"devDependencies": {
+		"crypto-js": "^3.1.9-1",
+		"js-md5": "^0.7.3"
+	}
+}

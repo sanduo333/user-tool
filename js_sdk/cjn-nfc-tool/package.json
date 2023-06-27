@@ -1,0 +1,18 @@
+{
+    "id": "cjn-nfc-tool",
+    "name": "Android-NFC读取卡号(小程序可以体验读卡)",
+    "displayName": "Android-NFC读取卡号(小程序可以体验读卡)",
+    "version": "1.0.3",
+    "description": "实现安卓设备对NFC标签读取卡号",
+    "keywords": [
+        "nfc",
+        "感卡",
+        "读卡"
+    ],
+    "dcloudext": {
+        "category": [
+            "JS SDK",
+            "通用 SDK"
+        ]
+    }
+}
